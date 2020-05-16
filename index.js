@@ -1,3 +1,4 @@
 document.addEventListener("DOMContentLoaded", function() {
-  let document.
+  let p = document.querySelector('text');
+  p.innerHTML = 'display this text'
 });
